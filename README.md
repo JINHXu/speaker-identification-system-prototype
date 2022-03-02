@@ -1,4 +1,4 @@
-## Speaker Identification (98% identification accuracy)
+# Speaker Identification (98% identification accuracy)
 
 How to build a __high-performance \& low-cost__ industrial (data-driven) speaker identification system with 98% identification accuracy using the state-of-the-art algorithms implemented with open-source packages and frameworks? This thesis describes an extensive research conducted towards the goal of building such a system prototype. The research answers the following questions:
 
